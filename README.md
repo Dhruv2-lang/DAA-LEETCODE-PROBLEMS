@@ -1,9 +1,4 @@
-# 🚀 LeetCode Solutions (Python)
 
-![Python](https://img.shields.io/badge/Language-Python-blue)
-![Problems](https://img.shields.io/badge/Problems-30-brightgreen)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A curated collection of **30 LeetCode problems** covering major algorithmic paradigms.  
 This repository focuses on **clean code, pattern recognition, and interview preparation**.
@@ -35,20 +30,6 @@ This repository focuses on **clean code, pattern recognition, and interview prep
 - ✅ **30 / 30 Problems Completed**
 
 ---
-
-## 📂 Repository Structure
----
-
-```bash
-leetcode-solutions/
-│
-├── brute_force/
-├── divide_and_conquer/
-├── backtracking/
-├── branch_and_bound/
-├── greedy/
-└── dynamic_programming/
-
 
 
 ## 📁 Problem List
@@ -133,3 +114,21 @@ leetcode-solutions/
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum/ |
 
 ---
+
+## 🤝 Contributions
+
+Contributions are always welcome!
+
+If you'd like to improve solutions, add new problems, or optimize existing ones:
+- Fork the repository  
+- Create a new branch  
+- Submit a pull request  
+
+Feel free to explore, learn, and build upon this project 🚀
+
+---
+
+## 🏁 Conclusion
+
+
+This repository showcases consistent practice and a strong grasp of fundamental algorithmic techniques. It reflects both problem-solving ability and a commitment to continuous improvement in Data Structures and Algorithms.
